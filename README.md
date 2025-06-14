@@ -2,7 +2,7 @@
 
 A simple and secure backend API built with Node.js that connects to the Ethereum blockchain using [Ethers.js](https://docs.ethers.org/). This project is part of the tutorial blog:
 
-📖 [Read the full blog on Medium →](https://medium.com/@hemangibavasiya/node-js-meets-ethereum-a-backend-developers-guide-to-building-web3-apis-with-ethers-js-75cd355d1c7d)
+📖 [Read the full blog on Medium →](https://medium.com/@hemangibavasiya08/df979f04f069?source=friends_link&sk=39f0d033b11c96d0ec9d7500674ab8de)
 
 ---
 
